@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		7ZPkdGqwwvtj6kDyEC2UV+gyH6U=
+		</data>
 		<key>Headers/DiagnosticsUI.h</key>
 		<data>
 		US3118knw5CKSrw5IBMTP0KJmxQ=
@@ -14,11 +18,11 @@
 		</data>
 		<key>Modules/DiagnosticsUI.swiftmodule/Project/arm64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		NptdL5IhI5VlrzelN0S+CVj/LWc=
+		o86icS9yv79HmiJpX6WsB2W2tCM=
 		</data>
 		<key>Modules/DiagnosticsUI.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<data>
-		DAXLJoDUVfik5tx+ky1vSbuoa44=
+		fkPU3Gc+FihXIQegBh32n8HkoZE=
 		</data>
 		<key>Modules/DiagnosticsUI.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
 		<data>
@@ -87,14 +91,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KzoCL0/oDS4q3SqFsGmmoKQv8lVRodydwgSWviVnkoM=
+			UKfQxFU6QcsY20N16yYJAP/sI1mZB0CWo8scjo3I0tI=
 			</data>
 		</dict>
 		<key>Modules/DiagnosticsUI.swiftmodule/Project/x86_64-apple-watchos-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RuVdJcJcqIqntHM18IFjO5iTWWe9ddoBYyaK7K4qatM=
+			fZYGKCVb0eB/nggRMhXRSlaheWbZuY00sKWklt6CNOw=
 			</data>
 		</dict>
 		<key>Modules/DiagnosticsUI.swiftmodule/arm64-apple-watchos-simulator.abi.json</key>
